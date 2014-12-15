@@ -1,0 +1,11 @@
+{
+  "name": "scrapping",
+  "description": "scrapping usando nodejs",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "cheerio": "^0.17.0",
+    "express": "^4.10.6",
+    "request": "^2.45.0"
+  }
+}
